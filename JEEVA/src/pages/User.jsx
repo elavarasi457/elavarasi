@@ -5,7 +5,7 @@ const User = () => {
   return (
     <>
 
-    <div>User</div>
+    <div>Users</div>
     </>
   )
 }
